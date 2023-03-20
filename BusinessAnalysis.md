@@ -43,7 +43,7 @@
 ###### a) operational policies and constraints;
 
 ###### b) description of the proposed system;
-(secure website code, remodel website and links) 
+######    (secure website code, remodel website and links. possible fixture of the mailing system) 
 
 ###### c) modes of system operation;
 
